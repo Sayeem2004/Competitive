@@ -1,0 +1,4 @@
+[submodule "Usaco"]
+	path = Usaco
+	url = git@github.com:Sayeem2004/Usaco.git
+	branch = main

@@ -1,3 +1,19 @@
+[submodule "Cornell"]
+	path = Cornell
+	url = git@github.com:Sayeem2004/Cornell.git
+	branch = main
+[submodule "CSES"]
+	path = CSES
+	url = git@github.com:Sayeem2004/CSES.git
+	branch = main
+[submodule "MBIT"]
+	path = MBIT
+	url = git@github.com:Sayeem2004/MBIT.git
+	branch = main
+[submodule "PClassic"]
+	path = PClassic
+	url = git@github.com:Sayeem2004/PClassic.git
+	branch = main
 [submodule "Usaco"]
 	path = Usaco
 	url = git@github.com:Sayeem2004/Usaco.git

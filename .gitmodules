@@ -1,3 +1,27 @@
+[submodule "AdventOfCode"]
+	path = AdventOfCode
+	url = git@github.com:Sayeem2004/AdventOfCode.git
+	branch = main
+[submodule "AtCoder"]
+	path = AtCoder
+	url = git@github.com:Sayeem2004/AtCoder.git
+	branch = main
+[submodule "BinarySearch"]
+	path = BinarySearch
+	url = git@github.com:Sayeem2004/BinarySearch.git
+	branch = main
+[submodule "CodeForces"]
+	path = CodeForces
+	url = git@github.com:Sayeem2004/CodeForces.git
+	branch = main
+[submodule "CodeJam"]
+	path = CodeJam
+	url = git@github.com:Sayeem2004/CodeJam.git
+	branch = main
+[submodule "CodingBat"]
+	path = CodingBat
+	url = git@github.com:Sayeem2004/CodingBat.git
+	branch = main
 [submodule "Cornell"]
 	path = Cornell
 	url = git@github.com:Sayeem2004/Cornell.git
@@ -6,13 +30,33 @@
 	path = CSES
 	url = git@github.com:Sayeem2004/CSES.git
 	branch = main
+[submodule "Kattis"]
+	path = Kattis
+	url = git@github.com:Sayeem2004/Kattis.git
+	branch = main
+[submodule "KickStart"]
+	path = KickStart
+	url = git@github.com:Sayeem2004/KickStart.git
+	branch = main
+[submodule "LIT"]
+	path = LIT
+	url = git@github.com:Sayeem2004/LIT.git
+	branch = main
 [submodule "MBIT"]
 	path = MBIT
 	url = git@github.com:Sayeem2004/MBIT.git
 	branch = main
+[submodule "NoctemVirtual"]
+	path = NoctemVirtual
+	url = git@github.com:Sayeem2004/NoctemVirtual.git
+	branch = main
 [submodule "PClassic"]
 	path = PClassic
 	url = git@github.com:Sayeem2004/PClassic.git
+	branch = main
+[submodule "TeamsCode"]
+	path = TeamsCode
+	url = git@github.com:Sayeem2004/TeamsCode.git
 	branch = main
 [submodule "Usaco"]
 	path = Usaco

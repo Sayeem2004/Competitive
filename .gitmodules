@@ -62,3 +62,7 @@
 	path = Usaco
 	url = git@github.com:Sayeem2004/Usaco.git
 	branch = main
+[submodule "Traverse"]
+	path = Traverse
+	url = git@github.com:Sayeem2004/Traverse.git
+	branch = master

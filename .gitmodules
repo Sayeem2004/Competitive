@@ -58,11 +58,11 @@
 	path = TeamsCode
 	url = git@github.com:Sayeem2004/TeamsCode.git
 	branch = main
-[submodule "Usaco"]
-	path = Usaco
-	url = git@github.com:Sayeem2004/Usaco.git
-	branch = main
 [submodule "Traverse"]
 	path = Traverse
 	url = git@github.com:Sayeem2004/Traverse.git
 	branch = master
+[submodule "Usaco"]
+	path = Usaco
+	url = git@github.com:Sayeem2004/Usaco.git
+	branch = main

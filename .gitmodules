@@ -6,10 +6,6 @@
 	path = AtCoder
 	url = git@github.com:Sayeem2004/AtCoder.git
 	branch = main
-[submodule "BinarySearch"]
-	path = BinarySearch
-	url = git@github.com:Sayeem2004/BinarySearch.git
-	branch = main
 [submodule "CodeForces"]
 	path = CodeForces
 	url = git@github.com:Sayeem2004/CodeForces.git

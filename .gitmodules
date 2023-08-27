@@ -30,6 +30,14 @@
 	path = Kattis
 	url = git@github.com:Sayeem2004/Kattis.git
 	branch = main
+[submodule "ICPC"]
+	path = ICPC
+	url = https://github.com/Sayeem2004/ICPC.git
+	branch = main
+[submodule "LeetCode"]
+	path = LeetCode
+	url = https://github.com/Sayeem2004/LeetCode.git
+	branch = main
 [submodule "LIT"]
 	path = LIT
 	url = git@github.com:Sayeem2004/LIT.git
@@ -42,6 +50,10 @@
 	path = NoctemVirtual
 	url = git@github.com:Sayeem2004/NoctemVirtual.git
 	branch = main
+[submodule "NoteBook"]
+	path = NoteBook
+	url = https://github.com/Sayeem2004/NoteBook.git
+	branch = main
 [submodule "PClassic"]
 	path = PClassic
 	url = git@github.com:Sayeem2004/PClassic.git
@@ -53,20 +65,4 @@
 [submodule "Usaco"]
 	path = Usaco
 	url = git@github.com:Sayeem2004/Usaco.git
-	branch = main
-[submodule "ICPC"]
-	path = ICPC
-	url = https://github.com/Sayeem2004/ICPC.git
-	branch = main
-[submodule "LeetCode"]
-	path = LeetCode
-	url = https://github.com/Sayeem2004/LeetCode.git
-	branch = main
-[submodule "NoteBook"]
-	path = NoteBook
-	url = https://github.com/Sayeem2004/NoteBook.git
-	branch = main
-[submodule "ProjectEuler"]
-	path = ProjectEuler
-	url = https://github.com/Sayeem2004/ProjectEuler.git
 	branch = main

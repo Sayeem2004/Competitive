@@ -14,10 +14,6 @@
 	path = CodeForces
 	url = git@github.com:Sayeem2004/CodeForces.git
 	branch = main
-[submodule "CodeJam"]
-	path = CodeJam
-	url = git@github.com:Sayeem2004/CodeJam.git
-	branch = main
 [submodule "CodingBat"]
 	path = CodingBat
 	url = git@github.com:Sayeem2004/CodingBat.git
@@ -33,10 +29,6 @@
 [submodule "Kattis"]
 	path = Kattis
 	url = git@github.com:Sayeem2004/Kattis.git
-	branch = main
-[submodule "KickStart"]
-	path = KickStart
-	url = git@github.com:Sayeem2004/KickStart.git
 	branch = main
 [submodule "LIT"]
 	path = LIT
@@ -58,11 +50,23 @@
 	path = TeamsCode
 	url = git@github.com:Sayeem2004/TeamsCode.git
 	branch = main
-[submodule "Traverse"]
-	path = Traverse
-	url = git@github.com:Sayeem2004/Traverse.git
-	branch = master
 [submodule "Usaco"]
 	path = Usaco
 	url = git@github.com:Sayeem2004/Usaco.git
+	branch = main
+[submodule "ICPC"]
+	path = ICPC
+	url = https://github.com/Sayeem2004/ICPC.git
+	branch = main
+[submodule "LeetCode"]
+	path = LeetCode
+	url = https://github.com/Sayeem2004/LeetCode.git
+	branch = main
+[submodule "NoteBook"]
+	path = NoteBook
+	url = https://github.com/Sayeem2004/NoteBook.git
+	branch = main
+[submodule "ProjectEuler"]
+	path = ProjectEuler
+	url = https://github.com/Sayeem2004/ProjectEuler.git
 	branch = main
